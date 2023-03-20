@@ -35,3 +35,9 @@ android_app_import {
 	},
 }
 
+dex_import {
+	name: "com.fingerprints.extension",
+	owner: "xiaomi",
+	jars: ["proprietary/framework/com.fingerprints.extension.jar"],
+}
+
